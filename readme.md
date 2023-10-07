@@ -4,9 +4,9 @@ This is a starter project for building backend applications with Express.js.
 
 ## Getting Started
 
-To get started, clone this repository and install the dependencies:
+To get started, clone this repository:
 
-git clone https://github.com/your-username/express-starter.git cd express-starter npm install
+git clone https://github.com/your-username/express-starter.git
 
 Then, start the development server:
 
