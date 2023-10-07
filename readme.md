@@ -18,6 +18,41 @@ To generate jsdoc:
 
 npm run docs
 
+## Prerequisites
+
+Before you can use this starter project, you need to have the following software installed:
+
+- Node.js (https://nodejs.org)
+- MongoDB (https://www.mongodb.com)
+
+## Installing Node.js
+
+To install Node.js, follow these steps:
+
+1. Go to the Node.js download page (https://nodejs.org) and download the appropriate version for your operating system.
+
+2. Install Node.js by following the instructions for your operating system.
+
+3. Verify that Node.js is installed by running the following command:
+
+node --version
+
+This should print the version number of Node.js.
+
+## Installing MongoDB
+
+To install MongoDB, follow these steps:
+
+1. Go to the MongoDB download page (https://www.mongodb.com/try/download/community) and download the appropriate version for your operating system.
+
+2. Install MongoDB by following the instructions for your operating system.
+
+3. Start the MongoDB server by running the following command:
+
+mongod
+
+This will start the MongoDB server on the default port (27017).
+
 ## Features
 
 This starter project includes the following features:
