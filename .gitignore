@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# JSDoc documentation
+docs/
+
+# Swagger documentation
+swagger-ui/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled output
+dist/
+build/
+out/
+package-lock.json
