@@ -18,7 +18,7 @@ docs/
 swagger-ui/
 
 # Environment variables
-.env
+/.env
 
 # IDE files
 .vscode/
